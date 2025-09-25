@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: chatbot-test-app-59-model-config
+data:
+  MODEL_ENDPOINT: ""
+  MODEL_NAME: "ibm-granite/granite-3.1-8b-instruct"
